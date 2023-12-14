@@ -1,11 +1,11 @@
 repo_name: newri0807/youtubevideo_player
-report_id: 56d35786089a56693f330f6e0ea036aa
+report_id: bf42e89c6916aa7813fb1a13904f6684
 repo_type: Public
-timestamp: '2023-11-10T02:54:06+00:00'
+timestamp: '2023-12-14T10:08:37+00:00'
 requested_by: newri0807
 provider: github
 branch: master
-detected_tools_count: 13
+detected_tools_count: 14
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -36,7 +36,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/youtubevideo_player/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newls
   last_updated_on: 2021-01-17 05:58:44.000000000 Z
@@ -71,6 +71,15 @@ tools:
   detection_source: package.json
   last_updated_by: newls
   last_updated_on: 2021-01-17 05:58:44.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: public/index.html
+  last_updated_by: newls
+  last_updated_on: 2021-01-17 05:58:44.000000000 Z
 - name: axios
   description: Promise based HTTP client for the browser and node.js
   website_url: https://github.com/mzabriskie/axios
@@ -81,7 +90,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/youtubevideo_player/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newls
   last_updated_on: 2021-01-17 05:58:44.000000000 Z
@@ -95,7 +104,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/youtubevideo_player/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newls
   last_updated_on: 2021-01-17 05:58:44.000000000 Z
@@ -110,7 +119,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/youtubevideo_player/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newls
   last_updated_on: 2021-01-17 05:58:44.000000000 Z
@@ -124,7 +133,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15967/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/youtubevideo_player/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newls
   last_updated_on: 2021-01-18 13:03:26.000000000 Z
@@ -138,7 +147,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16772/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/youtubevideo_player/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newls
   last_updated_on: 2021-01-17 05:58:44.000000000 Z
@@ -152,7 +161,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/youtubevideo_player/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newls
   last_updated_on: 2021-01-17 05:58:44.000000000 Z
@@ -166,7 +175,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/youtubevideo_player/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newls
   last_updated_on: 2021-01-17 05:58:44.000000000 Z
